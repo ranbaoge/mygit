@@ -1,2 +1,3 @@
 ﻿Git is a distributed version control system.
-Git is free software.wss111zsaasaxdxd
+Git is free software distributed under the GPL.
+Git has a mutale index called stage.
